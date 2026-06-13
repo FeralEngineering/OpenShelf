@@ -8,9 +8,9 @@
   <img src="images/openshelf-nodes.jpg" width="700">
 </p>
 
----
-
 Offline micro-libraries for small businesses and community spaces.
+
+---
 
 ## What Is OpenShelf?
 
