@@ -1,8 +1,8 @@
 # OpenShelf
 
-- ![Status](https://img.shields.io/badge/status-pilot-blue)
-- ![Type](https://img.shields.io/badge/type-offline%20micro--library-green)
-- ![Platform](https://img.shields.io/badge/platform-ESP8266-orange)
+![Status](https://img.shields.io/badge/status-pilot-blue)
+![Type](https://img.shields.io/badge/type-offline%20micro--library-green)
+![Platform](https://img.shields.io/badge/platform-ESP8266-orange)
 
 <p align="center">
   <img src="images/openshelf-nodes.jpg" width="700">
