@@ -22,6 +22,8 @@ The system is designed for simple local distribution of useful information in ph
 
 It does not require internet access, accounts, apps, or user tracking.
 
+OpenShelf nodes are always free to host and free to use.
+
 ---
 
 ## Why It Exists
