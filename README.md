@@ -112,6 +112,7 @@ Core firmware and deployment tooling are being kept private for now while the pr
 OpenShelf/
 ├── README.md
 ├── images/
+│   └── openshelf-nodes.jpg
 ├── docs/
 │   ├── HARDWARE.md
 │   ├── DEPLOYMENT.md
